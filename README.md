@@ -1,6 +1,6 @@
 # open-source-grants
 
-Few open source Grants i've found—
+Few open source Grants  found—
 
 **1.The Catalyst Fund**
 
